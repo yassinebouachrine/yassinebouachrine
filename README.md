@@ -1,4 +1,5 @@
 # Hello, I'm Yassine!
+ Data engineering | Python developer
 
 ## About Me
 
