@@ -23,7 +23,7 @@ Actuellement, je continue à me perfectionner dans les domaines du machine learn
 ## 📫 Me contacter
 
 - 📧 Email : bouachrinyassin0@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/yassine-bouachrine-68b761230)
+- 💼 [LinkedIn]([www.linkedin.com/in/yassine-bouachrine-68b761230](https://www.linkedin.com/in/yassine-bouachrine-68b761230/))
 - 💻 Projets disponibles ici sur mon GitHub — n’hésitez pas à jeter un coup d’œil 👇
 
 ---
