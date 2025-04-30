@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Yassine ! 
+# Salut, c'est Yassine ! 
 
 ## 🚀 À propos de moi
 
@@ -28,4 +28,4 @@ Actuellement, je continue à me perfectionner dans les domaines du machine learn
 
 ---
 
-Merci pour votre visite ! ⭐ Si vous aimez ce que je fais, n'hésitez pas à me suivre ou à collaborer !  
+Merci pour votre visite ! Si vous aimez ce que je fais, n'hésitez pas à me suivre ou à collaborer !  
