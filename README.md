@@ -1,31 +1,31 @@
-# Salut, c'est Yassine ! 
+# Hello, I'm Yassine!
 
-## 🚀 À propos de moi
+## About Me
 
-Je suis Yassine Bouachrine, élève ingénieur en Science des Données, Big Data et Intelligence Artificielle à l'École Nationale Supérieure de l'Intelligence Artificielle de Tardaount.  
-Curieux, rigoureux et passionné par l’univers de la donnée, j’ai acquis des compétences solides en data science, en développement backend, en automatisation de processus et en visualisation de données.
+I'm Yassine Bouachrine, a data engineering student specializing in Data Science, Big Data, and Artificial Intelligence at the National School of Artificial Intelligence in Tardaount.  
+Curious, rigorous, and passionate about everything related to data, I've gained solid skills in data science, backend development, process automation, and data visualization.
 
-Grâce à mes expériences académiques et professionnelles, j’ai développé une approche structurée pour analyser, comprendre et valoriser l'information. J’aime apprendre de nouvelles technologies, résoudre des problèmes complexes et concevoir des solutions intelligentes au service de la performance et de l’innovation.
+Through my academic and professional experiences, I have developed a structured approach to analyzing, understanding, and adding value to data. I enjoy learning new technologies, solving complex problems, and designing smart solutions that drive innovation and efficiency.
 
-Actuellement, je continue à me perfectionner dans les domaines du machine learning, de l’analyse de données avancée et du développement d'applications.
-
----
-
-## 🛠️ Compétences techniques
-
-- **Langages** : Python, Java, Bash, SQL, C, C++, R
-- **Data & ML** : Pandas, Scikit-learn, Matplotlib, TensorFlow (débutant), ML 
-- **Développement** : JavaFX, Spring Boot, REST API, Django, Flask, Streamlit
-- **Outils** : Git, GitHub, Docker, Linux, Maven, Gitlab  
+Currently, I'm continuing to improve my skills in machine learning, advanced data analysis, and application development.
 
 ---
 
-## 📫 Me contacter
+## Technical Skills
 
-- 📧 Email : bouachrinyassin0@gmail.com
-- 💼 [LinkedIn]([www.linkedin.com/in/yassine-bouachrine-68b761230](https://www.linkedin.com/in/yassine-bouachrine-68b761230/))
-- 💻 Projets disponibles ici sur mon GitHub — n’hésitez pas à jeter un coup d’œil 👇
+- **Languages**: Python, Java, Bash, SQL, C, C++, R  
+- **Data & ML**: Pandas, Scikit-learn, Matplotlib, TensorFlow (beginner), ML  
+- **Development**: JavaFX, Spring Boot, REST API, Django, Flask, Streamlit  
+- **Tools**: Git, GitHub, Docker, Linux, Maven, GitLab  
 
 ---
 
-Merci pour votre visite ! Si vous aimez ce que je fais, n'hésitez pas à me suivre ou à collaborer !  
+## Contact
+
+- **Email**: bouachrinyassin0@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/yassine-bouachrine-68b761230/
+- **Projects**: Available on my GitHub — feel free to check them out!
+
+---
+
+Thanks for visiting! If you like what I do, feel free to follow me or reach out for collaboration.
