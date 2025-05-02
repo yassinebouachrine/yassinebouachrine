@@ -20,7 +20,7 @@ Currently, I'm continuing to improve my skills in machine learning, advanced dat
 - **Artificial Intelligence**: Machine Learning algorithms
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Big Data Technologies**: Data Warehousing
-- **Frameworks & Tools**: Spring Boot, REST API, Django, Flask, Streamlit, Linux, Git, Docker, Linux
+- **Frameworks & Tools**: Spring Boot, REST API, Django, Flask, Streamlit, Linux, Git, Docker
 - **Modeling**: UML, Merise
 - **ERP Software**: Odoo
 
