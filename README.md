@@ -12,20 +12,6 @@ Currently, I'm continuing to improve my skills in machine learning, advanced dat
 
 ---
 
-## Technical Skills
-
-- **Programming Languages**: Python, Java, C, C++, PHP, JavaScript, R
-- **Data Science**: Python (Pandas, NumPy..), R, Scikit-learn, Keras
-- **Analysis & Visualization**: Power BI, Matplotlib, ggplot2 
-- **Artificial Intelligence**: Machine Learning algorithms
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Big Data Technologies**: Data Warehousing, Hadoop
-- **Frameworks & Tools**: Spring Boot, REST API, Django, Flask, Streamlit, Linux, Git, Docker
-- **Modeling**: UML, Merise
-- **ERP Software**: Odoo
-
----
-
 ## Contact
 
 - **Email**: bouachrinyassin0@gmail.com  
