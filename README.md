@@ -1,23 +1,55 @@
 # Hello, I'm Yassine!
-Data engineering | Python developer
+Data Engineer | Data Analyst
 
 ## About Me
 
-I'm Yassine Bouachrine, a data engineering student specializing in Data Science, Big Data, and Artificial Intelligence at the National School of Artificial Intelligence in Tardaount.  
-Curious, rigorous, and passionate about everything related to data, I've gained solid skills in data science, backend development, process automation, and data visualization.
+I'm Yassine Bouachrine, a student engineer in Data Science, Big Data & Artificial Intelligence at the National School of Artificial Intelligence and Data Sciences in Taroudant.
 
-Through my academic and professional experiences, I have developed a structured approach to analyzing, understanding, and adding value to data. I enjoy learning new technologies, solving complex problems, and designing smart solutions that drive innovation and efficiency.
+I’m passionate about data and enjoy transforming raw data into useful insights through analysis, visualization, and data pipelines.  
+Curious, rigorous, and motivated, I like learning new technologies and building smart solutions that support decision-making and innovation.
 
-Currently, I'm continuing to improve my skills in machine learning, advanced data analysis, and application development.
+---
+
+## Technical Skills
+
+### Data Engineering & Pipelines
+ETL/ELT, Data Pipeline, Data Ingestion, Data Warehousing, Apache Hadoop (HDFS, MapReduce)
+
+### Data Modeling & Warehousing
+Dimensional Modeling (Star Schema, Snowflake Schema), Data Marts, Merise, UML
+
+### Databases & Big Data
+SQL, Advanced SQL (window functions, aggregations, query optimization), MySQL, MongoDB, Databricks
+
+### Business Intelligence & Visualization
+Power BI (DAX, Power Query, Interactive Reports), Matplotlib, Seaborn, Reporting
+
+### Data Analysis
+Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation
+
+### Programming Languages
+Python, R, SQL, Java
+
+### Frameworks & DevOps
+Docker, Git, Linux, Flask, Streamlit
+
+### Cloud
+AWS (S3, EC2, Lambda, IAM), VPS
+
+### Machine Learning
+Scikit-learn, Keras, PyTorch, TensorFlow, Regression, Classification, Clustering
+
+### Soft Skills
+Problem Solving, Analytical Rigor, Self-Learning, Adaptability
 
 ---
 
 ## Contact
 
-- **Email**: bouachrinyassin0@gmail.com  
-- **LinkedIn**: https://www.linkedin.com/in/yassine-bouachrine-68b761230/
-- **Projects**: Available on my GitHub — feel free to check them out!
+- **Email**: bouachrinyassin0@gmail.com
+- **LinkedIn**: [yassine-bouachrine](https://www.linkedin.com/in/yassine-bouachrine-68b761230/)
+- **Kaggle**: [yassinebouachrine](https://www.kaggle.com/yacinebouachrine)
 
 ---
 
-Thanks for visiting! If you like what I do, feel free to follow me or reach out for collaboration.
+Thanks for visiting my profile!
