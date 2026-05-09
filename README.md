@@ -53,6 +53,3 @@ Problem Solving, Analytical Rigor, Self-Learning, Adaptability
 ---
 
 Thanks for visiting my profile!
-
----
-[![BOUACHRINE Yassine profile views](https://u8views.com/api/v1/github/profiles/130481728/views/day-week-month-total-count.svg)](https://u8views.com/github/yassinebouachrine)
